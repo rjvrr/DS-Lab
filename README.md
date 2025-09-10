@@ -1,2 +1,2 @@
 # DS-Lab
-Questions solved in the Data 
+Questions solved in the Data Structure Lab
